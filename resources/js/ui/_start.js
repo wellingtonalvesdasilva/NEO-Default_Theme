@@ -43,6 +43,9 @@ require('../functions/lazy_load');
 //--------------------[ Policy ]--------------------//
 require('./modules/policy');
 
+//--------------------[ Contato ]--------------------//
+require('../functions/contato');
+
 //--------------------[ Start Document ]--------------------//
 $(document).ready(function(){
     "use strict";    
